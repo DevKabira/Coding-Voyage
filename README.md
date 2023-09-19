@@ -31,7 +31,3 @@ No matter where you are in your coding journey, these language fundamentals are 
 Ready to embark on this voyage into the heart of coding? Let's dive in and explore the fascinating world of language fundamentals!
 
 We believe that knowledge grows when shared. If you're passionate about coding and tech education, we invite you to contribute to our projects, share your knowledge, and be part of our mission. Check out our Contribution Guidelines to get started.
-
-# 💡 Set Sail with Us 💡
-
-Are you ready to set sail on a Coding Voyage? Let's embark on this journey together, where the possibilities are endless, and the code is our compass.
